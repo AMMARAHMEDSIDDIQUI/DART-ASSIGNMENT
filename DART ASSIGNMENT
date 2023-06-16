@@ -1,0 +1,36 @@
+Q1:Create two integer variables length and breadth and assign values then check if they are square values or rectangle values.
+void main() {
+  int age1 =2;
+  int age2 =8;
+  
+  if(age1==age2)
+  {
+    print("the kids are of same age.");
+  }  
+  else if(age1<=age2)
+  {    
+    print("oldest persons age is 8");
+    print("younger persons age is 2");
+  }
+  else{
+    
+  print("younger persons age is 8");
+  print("oldest persons age is 2");
+  }
+  
+}
+Q.2: Take two variables and store age then using if/else condition to determine oldest and youngest among them.
+
+void main() {
+  int breath =2;
+  int length =8;
+  
+  if(length==breath)
+  {
+    print("its a square.");
+  }  
+  else
+  {
+    print("its a rectangle");
+  }
+}
